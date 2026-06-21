@@ -1,2 +1,14 @@
 # igameboard-lab
-HTML page archive and documentation
+
+公开页面文件归档
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
